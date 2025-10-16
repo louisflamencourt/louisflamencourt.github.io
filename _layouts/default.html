@@ -52,5 +52,14 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Select all links in the content area
+    document.querySelectorAll('section a[href^="http"], section a[href^="mailto:"]').forEach(function(link) {
+      link.setAttribute("target", "_blank");
+      link.setAttribute("rel", "noopener noreferrer");
+    });
+  });
+</script>
   </body>
 </html>
