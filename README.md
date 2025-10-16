@@ -3,7 +3,7 @@ I am an early-career researcher focused on the intersection between financial ma
 Please feel free to contact me at: [louis.flamencourt@gmail.com](mailito:louis.flamencourt@gmail.com)  
 
 ### Research Interests
-Public Economics · Economic Policy · Financial Deregulation · Welfare Economics · Income and Wealth Inequality
+Economic Policy · Public Economics · Financial Deregulation · Welfare Economics · Income and Wealth Inequality
 
 ---
 
