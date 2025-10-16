@@ -1,6 +1,6 @@
 # LOUIS FLAMENCOURT
 
-### Education 
+## Education 
 MPA in Economic Policy, The London School of Economics and Political Science (LSE)
 MPP in Public Administration, Sciences Po Paris
 BA (Hons) European Social and Political Studies in Economics, University College London (UCL)
