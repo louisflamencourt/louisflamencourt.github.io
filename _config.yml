@@ -1,6 +1,6 @@
 title: LOUIS FLAMENCOURT
 logo: /assets/images/Louis Flamencourt.jpg
-description: Early-career researcher in Economic Policy
+##description: Early-career researcher in Economic Policy
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme 
