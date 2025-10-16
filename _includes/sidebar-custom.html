@@ -1,0 +1,13 @@
+{%- if site.links and site.links.size > 0 -%}
+  <nav class="sidebar-links" aria-label="Contact & Links">
+    <ul style="list-style:none; padding-left:0; margin-top:1em;">
+      {%- for link in site.links -%}
+        <li style="margin-bottom:0.4em;">
+          <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+            {{ link.title }}
+          </a>
+        </li>
+      {%- endfor -%}
+    </ul>
+  </nav>
+{%- endif -%}
