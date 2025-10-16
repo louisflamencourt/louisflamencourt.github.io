@@ -8,3 +8,5 @@ BA (Hons) European Social and Political Studies in Economics (Dual Degree), Univ
 BA Undergraduate College in Economics and Society (Dual Degree), Sciences Po Paris
 
 ## Publications 
+{https://www.lse.ac.uk/school-of-public-policy/assets/Documents/Research/LSE-Growth-Lab-FCA-Research-Competition-Report-April-2025.pdf}
+[Improving Productivity Measurement in the UK Financial Services Sector (with A. Correa-Jimenez, R. Davies, C. Gonzales-Berrocal, S. Iyer, and R. Siddique)]{https://www.lse.ac.uk/school-of-public-policy/assets/Documents/Research/LSE-Growth-Lab-FCA-Research-Competition-Report-April-2025.pdf}, \textit{LSE School of Public Policy Publications} (2025)
