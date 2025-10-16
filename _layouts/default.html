@@ -61,5 +61,15 @@
     });
   });
 </script>
+    <script>
+  document.addEventListener("DOMContentLoaded", function() {
+    document.querySelectorAll(
+      'section a[href^="http"], section a[href^="mailto:"], section a[href$=".pdf"]'
+    ).forEach(function(link) {
+      link.setAttribute("target", "_blank");
+      link.setAttribute("rel", "noopener noreferrer");
+    });
+  });
+</script>
   </body>
 </html>
