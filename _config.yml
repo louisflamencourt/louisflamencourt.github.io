@@ -2,11 +2,8 @@ title: LOUIS FLAMENCOURT
 logo: /assets/images/Louis Flamencourt.jpg
 description: Early-career researcher in Economic Policy
 theme: jekyll-theme-minimal
-
-# --- Add social and contact links ---
 show_downloads: false
 
-# These will appear as clickable icons or text links (depending on your theme)
 links:
   - title: "📄 CV"
     url: "https://YOUR_CV_LINK_HERE"
