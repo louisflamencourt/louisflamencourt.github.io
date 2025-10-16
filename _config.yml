@@ -8,7 +8,7 @@ show_downloads: false
 
 links:
   - title: "📄 My CV"
-    url: "https://YOUR_CV_LINK_HERE"
+    url: "assets/docs/Flamencourt_CV.pdf"
   - title: "✉️ Email"
     url: "mailto:louis.flamencourt@gmail.com"
   - title: "🔗 LinkedIn"
