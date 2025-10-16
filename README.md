@@ -8,13 +8,13 @@ Public Economics · Economic Policy · Financial Deregulation · Welfare Economi
 ---
 
 # Education
-- **The London School of Economics and Political Science (LSE)**
+- **The London School of Economics and Political Science (LSE)**   
   MPA in Economic Policy (Double Degree)  
-- **Sciences Po Paris**
+- **Sciences Po Paris**   
   MPP in Public Administration (Double Degree)  
-- **University College London (UCL)**
+- **University College London (UCL)**   
   BA (Hons) European Social and Political Studies in Economics (Dual Degree)  
-- **Sciences Po Paris**
+- **Sciences Po Paris**   
   BA Undergraduate College in Economics and Society (Dual Degree)  
 
 ---
