@@ -7,7 +7,7 @@ plugins:
 show_downloads: false
 
 links:
-  - title: "📄 CV"
+  - title: "📄 My CV"
     url: "https://YOUR_CV_LINK_HERE"
   - title: "🔗 LinkedIn"
     url: "https://linkedin.com/in/louisflamencourt"
