@@ -29,7 +29,7 @@ Public Economics · Economic Policy · Financial Deregulation · Welfare Economi
 ---
 
 ## Working Papers
-- [Britain's 1986 Big Bang: how State-led financial deregulation durably boosted inequality and hampered long-term economic welfare in the UK](assets/docs/Flamencourt_BigBang_Diss.pdf) (2025)
+- [Britain's 1986 Big Bang: how State-led financial deregulation durably boosted inequality and hampered long-term economic welfare in the UK](assets/docs/Flamencourt_BigBang_WP.pdf) (2025)
 - [Is Britain's Fianncial Sector Too Large?](assets/docs/Capstone_LSE_FCA.pdf) (with R. Montiel, A. Viu and C. Yau) (2025)
 
 
