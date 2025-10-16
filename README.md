@@ -1,5 +1,5 @@
 # Hello  
-I am an early-career researcher focused on the intersection of financial markets and economic policymaking, bridging data-driven analysis and policy-applied economics. I am currently a Research Assistant at the European Central Bank's DG Research, Financial Research Division.  
+I am an early-career researcher focused on the intersection between financial markets and economic policymaking, bridging data-driven analysis and policy-applied economics. I am currently a Research Assistant at the European Central Bank's DG Research, Financial Research Division.  
 Please feel free to contact me at: [louis.flamencourt@gmail.com](mailito:louis.flamencourt@gmail.com)  
 
 ## Research Interests
