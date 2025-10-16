@@ -1,6 +1,5 @@
 # Hello  
-I am an early-career researcher focused on the intersection of financial markets and economic policymaking, bridging data-driven analysis and policy-applied economics.  
-I am currently a Research Assistant at the European Central Bank's DG Research, Financial Research Division.  
+I am an early-career researcher focused on the intersection of financial markets and economic policymaking, bridging data-driven analysis and policy-applied economics. I am currently a Research Assistant at the European Central Bank's DG Research, Financial Research Division.  
 Please feel free to contact me at: [louis.flamencourt@gmail.com](mailito:louis.flamencourt@gmail.com)  
 
 ## Research Interests
@@ -9,14 +8,14 @@ Public Economics · Economic Policy · Financial Deregulation · Welfare Economi
 ---
 
 # Education
-- MPA in Economic Policy (Double Degree)  
-  ***The London School of Economics and Political Science (LSE)***  
-- MPP in Public Administration (Double Degree)  
-  ***Sciences Po Paris***  
-- BA (Hons) European Social and Political Studies in Economics (Dual Degree)  
-  ***University College London (UCL)***  
-- BA Undergraduate College in Economics and Society (Dual Degree)  
-  ***Sciences Po Paris***
+- **The London School of Economics and Political Science (LSE)**
+  MPA in Economic Policy (Double Degree)  
+- **Sciences Po Paris**
+  MPP in Public Administration (Double Degree)  
+- **University College London (UCL)**
+  BA (Hons) European Social and Political Studies in Economics (Dual Degree)  
+- **Sciences Po Paris**
+  BA Undergraduate College in Economics and Society (Dual Degree)  
 
 ---
 
