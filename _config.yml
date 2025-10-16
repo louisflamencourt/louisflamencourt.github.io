@@ -1,15 +1,17 @@
 title: LOUIS FLAMENCOURT
 logo: /assets/images/Louis Flamencourt.jpg
 description: Early-career researcher in Economic Policy
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme  # Required for remote_theme to work
 show_downloads: false
 
 links:
   - title: "📄 CV"
     url: "https://YOUR_CV_LINK_HERE"
   - title: "🔗 LinkedIn"
-    url: "https://linkedin.com/in/louisflamencourt"
+    url: "https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"
   - title: "✉️ Email"
-    url: "mailito:louis.flamencourt@gmail.com"
+    url: "mailto:YOUR_EMAIL_ADDRESS"
   - title: "🌐 GitHub"
     url: "https://github.com/YOUR_GITHUB_USERNAME"
