@@ -26,13 +26,12 @@ Economic Policy · Public Economics · Financial Deregulation · Welfare Economi
 - [Britain's Shift towards Financial Capitalism: How Financialisation Is Altering Individual Economic Behaviour, Paving the Way for a New Regime of Risk-Taking-Driven Growth in the United Kingdom](https://doi.org/10.14324/111.444.2755-0877.1593)  
   *UCL Journal of Economics*, Volume 3 (2024)
 
----
 
 ## Working Papers
 - [Britain's 1986 Big Bang: how State-led financial deregulation durably boosted inequality and hampered long-term economic welfare in the UK](assets/docs/Flamencourt_BigBang_WP.pdf)   
   *MPA Dissertation* (submitted for publication, under review) (2025)
 
-- [Is Britain's Fianncial Sector Too Large?](assets/docs/Capstone_LSE_FCA.pdf) (with R. Montiel, A. Viu and C. Yau)   
+- [Is Britain's Financial Sector Too Large?](assets/docs/Capstone_LSE_FCA.pdf) (with R. Montiel, A. Viu and C. Yau)   
   *MPA Capstone Project* (2025)
 
 
