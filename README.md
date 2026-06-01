@@ -39,13 +39,13 @@ Economic Policy · Public Economics · Financial Deregulation · Welfare Economi
 
 ## Presentations
 - [Royal Economic Society Annual Conference 2026](https://res.org.uk/event-listing/res-2026-annual-conference/)   
-  Political Economy Session, Britain's 1986 Big Bang and Inequality (Newcastle, July 2026)
+  Political Economy Session: "Britain's 1986 Big Bang and Inequality" (Newcastle, July 2026)
 
 - [World Inequality Conference 2026](https://inequalitylab.world/en/event/world-inequality-conference-2026/)   
-  Inequality through History session, Britain's 1986 Big Bang and Inequality (Paris, June 2026)
+  Inequality through History session: "Britain's 1986 Big Bang and Inequality" (Paris, June 2026)
 
 - [FCA Insights and and Ideas Showcase Seminar](https://www.lse.ac.uk/school-of-public-policy/news/research/LSE-Growth-Lab-FCA-Competition-Report)   
-  FCA Inaugural Economic Research Competition, Improving Productivity Measurement in UK Financial Services (London, June 2025)
+  FCA Inaugural Economic Research Competition: "Improving Productivity Measurement in UK Financial Services" (London, June 2025)
 
-- [FCA Economics Department Seminar](https://louisflamencourt.github.io/assets/docs/Capstone_LSE_FCA.pdf)   
-  FCA Capstone Project, Is Britain's Financial Sector Too Large (London, April 2025)
+- [FCA Economics Department Internal Seminar](https://louisflamencourt.github.io/assets/docs/Capstone_LSE_FCA.pdf)   
+  FCA Capstone Presentation: "Is Britain's Financial Sector Too Large" (London, April 2025)
