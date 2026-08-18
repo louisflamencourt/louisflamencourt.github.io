@@ -23,10 +23,10 @@ Economic Policy · Public Economics · Financial Deregulation · Welfare Economi
 
 ## Publications and working papers 
 - [Improving Productivity Measurement in the UK Financial Services Sector](https://www.lse.ac.uk/school-of-public-policy/assets/Documents/Research/LSE-Growth-Lab-FCA-Research-Competition-Report-April-2025.pdf) (with A. Correa-Jimenez, R. Davies, C. Gonzales-Berrocal, S. Iyer, and R. Siddique)  
-  *LSE School of Public Policy Publications* (2025)
+  *LSE School of Public Policy* (2025)
 
 - [Britain's 1986 Big Bang: how State-led financial deregulation durably boosted inequality and hampered long-term economic welfare in the UK](assets/docs/Flamencourt_BigBang_WP.pdf)   
-  *MPA Dissertation* (submitted for publication, under review) (2025)
+  *submitted for publication* (2025)
 
 - [Britain's Shift towards Financial Capitalism: How Financialisation Is Altering Individual Economic Behaviour, Paving the Way for a New Regime of Risk-Taking-Driven Growth in the United Kingdom](https://doi.org/10.14324/111.444.2755-0877.1593)  
   *UCL Journal of Economics*, Volume 3 (2024)
