@@ -1,5 +1,5 @@
 ## Hello!
-I am an early-career researcher in economic policy and political economy interested in the intersection between financial markets development and inequalities. I am currently a PhD candidate at University College London. 
+I am an early-career political economist interested in how financial development affects common good outcomes and inequalities. I am currently a PhD candidate in Economic Policy at University College London 
 Please feel free to contact me at: [louis.flamencourt.19@ucl.ac.uk](mailto:louis.flamencourt.19@ucl.ac.uk)  
 
 ### Research Interests
@@ -9,7 +9,7 @@ Economic Policy · Public Economics · Financial Deregulation · Welfare Economi
 
 ## Education
 - **University College London (UCL)**   
-  PhD in Economic Policy and Political Economy 
+  PhD candidate in Economic Policy and Political Economy 
 - **The London School of Economics and Political Science (LSE)**   
   MPA in Economic Policy (Double Degree) -- Distinction 
 - **Sciences Po Paris**   
