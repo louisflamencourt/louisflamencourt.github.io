@@ -1,7 +1,11 @@
 ## Hello!
-I am an early-career political economist interested in how financial development affects common good outcomes and inequalities. I am currently a PhD candidate in Economic Policy at University College London 
+Louis is a PhD candidate in Economic Policy and Political Economy at UCL’s Institute for Innovation and Public Purpose. Under the supervision of Professor Mariana Mazzucato, his research examines how financial services can contribute to economic outcomes that advance the common good, with a particular focus on the relationship between financial development and inequality.
 
-Please feel free to contact me at: [louis.flamencourt.19@ucl.ac.uk](mailto:louis.flamencourt.19@ucl.ac.uk)  
+Before beginning his PhD, Louis worked as a research assistant at the European Central Bank’s Directorate General Research and at the Harvard–LSE Growth Lab. His research examined the empirical effects of the financial sector on economic growth, productivity and resilience.
+
+Louis holds a dual MPP–MPA in Economic Policy from the London School of Economics and Political Science (LSE) and Sciences Po Paris. He also holds a dual BA (Hons) in European Social and Political Studies, specialising in Economics, from University College London (UCL) and Sciences Po Paris.
+
+Contact: [louis.flamencourt.19@ucl.ac.uk](mailto:louis.flamencourt.19@ucl.ac.uk)  
 
 ### Research Interests
 Economic Policy · Public Economics · Financial Deregulation · Welfare Economics · Income and Wealth Inequality
